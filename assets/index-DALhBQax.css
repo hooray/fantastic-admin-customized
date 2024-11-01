@@ -1,0 +1,8 @@
+
+/**
+ * 由 Fantastic-admin 提供技术支持
+ * Powered by Fantastic-admin
+ * https://fantastic-admin.hurui.me
+ */
+    
+.sub-main-sidebar-container[data-v-760c58f0]{position:absolute;z-index:1100;height:var(--g-sub-main-sidebar-height);background:var(--g-sub-sidebar-bg);box-shadow:0 1px 0 0 var(--g-border-color)}.sub-main-sidebar-container .menu[data-v-760c58f0]{display:inline-flex;height:100%;padding:0 4px}.sub-main-sidebar-container .menu[data-v-760c58f0] .menu-item .menu-item-container{color:var(--g-sub-sidebar-menu-color)}.sub-main-sidebar-container .menu[data-v-760c58f0] .menu-item .menu-item-container:hover{color:var(--g-sub-sidebar-menu-hover-color);background-color:var(--g-sub-sidebar-menu-hover-bg)}.sub-main-sidebar-container .menu[data-v-760c58f0] .menu-item .menu-item-container .menu-item-container-icon{font-size:20px!important}.sub-main-sidebar-container .menu[data-v-760c58f0] .menu-item.active .menu-item-container{color:var(--g-sub-sidebar-menu-active-color)!important;background-color:var(--g-sub-sidebar-menu-active-bg)!important}
